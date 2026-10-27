@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 	const language = "Go"
-	var name string = "Ирина"
+	var name string = "Артём"
 	completed := 1
 	var ready bool = true
 	var hours float64 = 1.5
