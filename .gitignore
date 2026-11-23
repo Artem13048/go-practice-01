@@ -21,3 +21,16 @@
 .DS_Store
 Thumbs.db
 *.exe
+
+# ПР №5: данные CLI
+/tasks.json
+/my-tasks.json
+*.tmp
+
+# ПР №6: PostgreSQL
+sql/practice-06/*.dump
+sql/practice-06/*.backup
+pgdata/
+postgres-data/
+*.log
+.env
